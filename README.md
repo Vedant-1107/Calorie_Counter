@@ -9,7 +9,7 @@ The app calculates the remaining calories and provides feedback on whether the u
   . 🏃 Record calories burned through exercise\
   .  🔢 Get real-time calorie balance calculations\
   . 🎨 Clean and intuitive UI built with HTML, CSS, and JavaScript\
-  . 🚀 No dependencies, works entirely in the browser\
+  . 🚀 No dependencies, works entirely in the browser
 
 # Installation
   <1.> Clone the repository:
