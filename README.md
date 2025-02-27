@@ -12,16 +12,16 @@ The app calculates the remaining calories and provides feedback on whether the u
   . 🚀 No dependencies, works entirely in the browser\
 
 # Installation
-  <1.> Clone the repository:\
+  <1.> Clone the repository:
   ```
   git clone https://github.com/your-username/calorie-counter.git
   cd calorie-counter
   ```
-  <2.> Open index.html in your browser.\
+  <2.> Open index.html in your browser.
 
 # Usage
   <1.> Enter your daily calorie budget.\
   <2.> Add food items under each meal category with their calorie values.\
   <3.> Log exercises and calories burned.\
   <4.> Click Calculate Remaining Calories to see your calorie balance.\
-  <5.> Click Clear to reset the form.\
+  <5.> Click Clear to reset the form.
